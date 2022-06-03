@@ -1,5 +1,7 @@
 # Advanced School Management System v1.0 by itsourcecode.com has arbitrary code execution (RCE)
 
+**Vul_Author**: **Zhijie Tan**
+
 vendor: https://itsourcecode.com/free-projects/php-project/advanced-school-management-system-in-php-with-source-code/
 
 Vulnerability url: ip/school/view/all_teacher.php(RCE vulnerability exists in "edit" function of Ip/School/view/all_teacher.php)
